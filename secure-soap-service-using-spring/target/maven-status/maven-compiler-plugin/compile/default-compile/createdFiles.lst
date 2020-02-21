@@ -1,0 +1,8 @@
+com/tutorialflix/spring/ws/Application.class
+com/tutorialflix/spring/types/v1/CreateCustomerFault.class
+com/tutorialflix/spring/types/v1/CreateCustomerRequest.class
+com/tutorialflix/spring/types/v1/CreateCustomerResponse.class
+com/tutorialflix/spring/ws/config/WebServiceConfig.class
+com/tutorialflix/spring/ws/endpoint/CustomerServiceEndpoint.class
+com/tutorialflix/spring/types/v1/ObjectFactory.class
+com/tutorialflix/spring/types/v1/package-info.class

@@ -1,0 +1,8 @@
+/Users/vaibhav_bhootna/git-blog/tutorials/secure-soap-service-using-spring/src/main/java/com/tutorialflix/spring/types/v1/CreateCustomerResponse.java
+/Users/vaibhav_bhootna/git-blog/tutorials/secure-soap-service-using-spring/src/main/java/com/tutorialflix/spring/types/v1/CreateCustomerRequest.java
+/Users/vaibhav_bhootna/git-blog/tutorials/secure-soap-service-using-spring/src/main/java/com/tutorialflix/spring/types/v1/ObjectFactory.java
+/Users/vaibhav_bhootna/git-blog/tutorials/secure-soap-service-using-spring/src/main/java/com/tutorialflix/spring/ws/endpoint/CustomerServiceEndpoint.java
+/Users/vaibhav_bhootna/git-blog/tutorials/secure-soap-service-using-spring/src/main/java/com/tutorialflix/spring/types/v1/package-info.java
+/Users/vaibhav_bhootna/git-blog/tutorials/secure-soap-service-using-spring/src/main/java/com/tutorialflix/spring/ws/Application.java
+/Users/vaibhav_bhootna/git-blog/tutorials/secure-soap-service-using-spring/src/main/java/com/tutorialflix/spring/types/v1/CreateCustomerFault.java
+/Users/vaibhav_bhootna/git-blog/tutorials/secure-soap-service-using-spring/src/main/java/com/tutorialflix/spring/ws/config/WebServiceConfig.java
